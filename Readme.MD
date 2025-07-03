@@ -46,8 +46,7 @@ All PVT outputs are derived from thermodynamic equations of state and calibrated
    - Coefficients extracted and used to form explicit equations for $\log B_o$, $P_b$, and $R_s$  
    - All equations are rendered in LaTeX for clarity
 
-## Example: Final Equation for $ R_s$
-
+## Example: Final Equation for $R_s$
 
 $$
 \R_s = 3297.1407
@@ -58,6 +57,7 @@ $$
 - 0.0589\,C_{7_{+}}M_{7_{+}}
 - 2.9528\,C_{2}C_{7_{+}}
 $$
+
 $$
 - 20.8489\,nC_{5}C_{7_{+}}
 + 46.5612\,C_{1}
