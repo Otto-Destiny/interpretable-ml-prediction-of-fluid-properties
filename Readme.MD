@@ -48,22 +48,23 @@ All PVT outputs are derived from thermodynamic equations of state and calibrated
 
 ## Example: Final Equation for $R_s$
 
-$$
-\R_s = 3297.1407
+$
+R_s = 3297.1407
 + 1.6161\,C_{1}C_{7_{+}}
 + 85.4214\,C_{7_{+}}
 - 0.3710\,(C_{7_{+}})^2
 - 0.1191\,C_{7_{+}}MW
 - 0.0589\,C_{7_{+}}M_{7_{+}}
 - 2.9528\,C_{2}C_{7_{+}}
-$$
+$
 
-$$
+
+$
 - 20.8489\,nC_{5}C_{7_{+}}
 + 46.5612\,C_{1}
 - 0.3603\,C_{1}^2
 - 0.7972\,C_{3}C_{7_{+}}
-$$
+$
 
 ## Dependencies
 
