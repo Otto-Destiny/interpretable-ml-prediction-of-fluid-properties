@@ -48,7 +48,7 @@ All PVT outputs are derived from thermodynamic equations of state and calibrated
 
 ## Example: Final Equation for $R_s$
 
-![Rs_latex_eqn.png](images\Rs_latex_eqn.png)
+![Rs_latex_eqn.png](images/Rs_latex_eqn.png)
 
 ## Dependencies
 
